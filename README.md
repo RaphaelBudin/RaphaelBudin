@@ -35,4 +35,7 @@ Me chamo **Raphael Budin**, é um prazer te ver por aqui!
 <a href = "mailto:raphael.budin@hotmail.com"><img height="45" width="45" alt="Entre em contato: raphael.budin@hotmail.com" src="https://cdn-icons-png.flaticon.com/512/9051/9051851.png" target="_blank">&nbsp;</a>
 <a href="https://instagram.com/raphaelbudin" target="_blank"><img height="45" width="45" alt="Instagram: RaphaelBudin" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" target="_blank">&nbsp;</a>
 <a href="https://www.linkedin.com/in/raphaelbudin" target="_blank"><img height="45" width="45" alt="LinkedIn: RaphaelBudin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank">&nbsp;</a> 
+  
+  ![Snake animation](https://github.com/RaphaelBudin/RaphaelBudin/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
