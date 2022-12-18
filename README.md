@@ -30,7 +30,7 @@ Me chamo **Raphael Budin**, é um prazer te ver por aqui!
 </div>
 
 ##
-
+<br/>
 <div align="center" display="flex">
 <a href = "mailto:raphael.budin@hotmail.com"><img height="45" width="45" alt="Entre em contato: raphael.budin@hotmail.com" src="https://cdn-icons-png.flaticon.com/512/9051/9051851.png" target="_blank">&nbsp;</a>
 <a href="https://instagram.com/raphaelbudin" target="_blank"><img height="45" width="45" alt="Instagram: RaphaelBudin" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" target="_blank">&nbsp;</a>
