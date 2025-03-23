@@ -3,8 +3,8 @@
 Me chamo **Raphael Budin**, é um prazer te ver por aqui!
 
 - 💻 Trabalho com desenvolvimento PHP + Smarty (TPL), MySQL, extração de dados em CSV da ANS e DataSUS (BigData), treinamento, documentação e suporte
-- 👨‍💻 Estudando ReactJS, NodeJS, TypeScript, Docker, Postgres e Linux
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes, período norturno
+- 👨‍💻 Estudando Laravel, Automação e Infraestrutura
+- 🏫 Formado em Análise e Desenvolvimento de Sistemas e Processos Gerenciais
 - 📫 Contato: **raphael.budin@hotmail.com**
 - ⚡ LinkedIn: https://www.linkedin.com/in/raphael-budin/
 - 🤳 Instagram: https://www.instagram.com/raphaelbudin/
